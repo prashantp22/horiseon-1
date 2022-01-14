@@ -1,0 +1,130 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background-color: #006f9d;
+    font-family: Helvetica, Arial, sans-serif;
+    color: #012881;
+}
+
+header {
+    padding: 20px 35px;
+    background-color: #012881;
+}
+
+header h1{
+    font-weight: bold;
+    font-size: 36px;
+    color: #00e6ee;
+    margin: 0;
+    display: inline;
+}
+
+header a {
+    text-decoration: none;
+    color: #ef2155;
+}
+
+header nav {
+    float: right;
+    margin: 7px 0;
+}
+
+header nav ul li {
+    display: inline;
+    margin: 0 30px;
+    font-weight: lighter;
+    font-size: 22px;
+}
+
+.hero {
+    background-image: url('../images/shutterstock.jpg');
+    height: 600px;
+    background-size: cover;
+    background-position: center;
+    position: relative;
+}
+
+.aboutme{
+    background-color: #00e6ee;
+}
+
+.aboutme p{
+    font-size: 20px;
+}
+
+.section-title{
+    font-size: 45px;
+  color: #ef2155;
+  margin-bottom: 35px;
+  padding: 0 100px 20px 100px;
+  display: inline-block;
+}
+
+.aboutme p{
+    color: #012881;
+    width: 410px;
+    display: inline-block;
+    vertical-align: top;
+    text-align: left;
+    margin: 30px 0 0 60px;
+}
+
+.work{
+    width: 900px;
+    margin: 0 auto 30px auto;
+    background: #012881;
+    color: #00e6ee;
+    overflow: auto;
+ }
+
+.work img{
+    width: 35%;
+    float: left; 
+}
+
+.workname{
+    padding: 35px;
+    float: left;
+    width: 65%;
+}
+
+
+.contact{
+    background-color: #012881;
+}
+
+.contact div{
+    width: 410px;
+  display: inline-block;
+  vertical-align: top;
+  text-align: left;
+  margin: 30px 0 0 60px;
+}
+
+.contact h3{
+    color: #c84eef;
+    font-size: 35px;
+}
+.contact a{
+    color: #c84eef;
+    text-decoration: none;
+    font-size: 35px;
+}
+
+footer {
+    background: #00e6ee;
+    width: 100%;
+    padding: 40px 35px;
+    text-align: center;
+}
+
+footer h2 {
+    display: inline;
+    color: #012881;
+    font-size: 20px;
+    margin: 0;
+  }
