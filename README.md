@@ -8,7 +8,7 @@ A website that presents Prashant's portfolio.
 * CSS
 
 ## Website
-https://prashantp22.github.io/Horiseon/
+https://prashantp22.github.io/portfolio/
 
 ## Contribution
 Made with ❤️ by Prashant Patel
